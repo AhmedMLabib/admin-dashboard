@@ -24,7 +24,7 @@ Access the live demo here:
 
 ## Usage
 
-This demo is **read-only** and intended to showcase the template. You cannot save changes. To use the full template, please download the full source code here: [Full Template on Gumroad](https://gumroad.com/your-product-link)
+This demo is **read-only** and intended to showcase the template. You cannot save changes. To use the full template, please download the full source code here: [Full Template on Gumroad](https://alabib.gumroad.com/l/xspwhhm)
 
 1. Open the demo link in your browser.
 2. Explore sidebar, pages, tables, Dark Mode, and color customization.
