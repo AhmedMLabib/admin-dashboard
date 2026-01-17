@@ -1,5 +1,7 @@
 # Admin Dashboard Template - Demo Version
 
+This demo is **read-only** and intended to showcase the template. You cannot save changes. To use the full template, please download the full source code here: [Full Template on Gumroad](https://alabib.gumroad.com/l/xspwhhm)
+
 This is a **demo version** of the Admin Dashboard Template hosted on GitHub. It allows you to preview the layout, components, and responsiveness before using or purchasing the full source code.
 
 ---
@@ -23,8 +25,6 @@ Access the live demo here:
 ---
 
 ## Usage
-
-This demo is **read-only** and intended to showcase the template. You cannot save changes. To use the full template, please download the full source code here: [Full Template on Gumroad](https://alabib.gumroad.com/l/xspwhhm)
 
 1. Open the demo link in your browser.
 2. Explore sidebar, pages, tables, Dark Mode, and color customization.
